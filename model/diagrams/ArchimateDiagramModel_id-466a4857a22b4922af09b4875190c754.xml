@@ -70,4 +70,15 @@
           href="BusinessActor_id-5048ee779fc7408aaeeb94792bf67ab7.xml#id-5048ee779fc7408aaeeb94792bf67ab7"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2d2e590074534b94ab256c6dde55201c"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="185"
+        y="264"
+        width="400"
+        height="140"/>
+  </children>
 </archimate:ArchimateDiagramModel>
